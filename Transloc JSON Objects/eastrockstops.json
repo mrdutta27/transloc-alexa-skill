@@ -1,0 +1,53 @@
+{
+    "rate_limit": 1,
+    "expires_in": 300,
+    "api_latest_version": "1.2",
+    "generated_on": "2017-05-27T18:59:49+00:00",
+    "data": [{
+        "code": "3326",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31816,
+            "lng": -72.91456
+        },
+        "stop_id": "4096990",
+        "routes": ["4000366", "4000370", "4000378", "4000386", "4000390"],
+        "name": "Edwards/Orange"
+    }, {
+        "code": "3356",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31917,
+            "lng": -72.91418
+        },
+        "stop_id": "4128614",
+        "routes": ["4000350"],
+        "name": "Lawrence/Orange"
+    }, {
+        "code": "3282",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31713,
+            "lng": -72.91238
+        },
+        "stop_id": "4096914",
+        "routes": ["4000366", "4000378"],
+        "name": "Foster/Edwards"
+    }],
+    "api_version": "1.2"
+}

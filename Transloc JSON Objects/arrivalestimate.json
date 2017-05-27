@@ -1,0 +1,22 @@
+{
+    "rate_limit": 1,
+    "expires_in": 5,
+    "api_latest_version": "1.2",
+    "generated_on": "2017-05-27T19:20:17+00:00",
+    "data": [{
+        "arrivals": [{
+            "route_id": "4000370",
+            "vehicle_id": "4013993",
+            "arrival_at": "2017-05-27T15:24:29-04:00",
+            "type": "vehicle-based"
+        }, {
+            "route_id": "4000370",
+            "vehicle_id": "4008791",
+            "arrival_at": "2017-05-27T15:44:54-04:00",
+            "type": "vehicle-based"
+        }],
+        "agency_id": "128",
+        "stop_id": "4096990"
+    }],
+    "api_version": "1.2"
+}

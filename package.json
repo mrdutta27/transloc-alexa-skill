@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/mrdutta27/transloc-alexa-skill/issues"
   },
-  "homepage": "https://github.com/mrdutta27/transloc-alexa-skill#readme"
+  "homepage": "https://github.com/mrdutta27/transloc-alexa-skill#readme",
+  "dependencies": {
+    "alexa-sdk": "^1.0.9",
+    "unirest": "^0.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-google": "^0.7.1"
+  }
 }

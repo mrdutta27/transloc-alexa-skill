@@ -1,0 +1,1463 @@
+{
+    "rate_limit": 1,
+    "expires_in": 300,
+    "api_latest_version": "1.2",
+    "generated_on": "2017-05-27T18:59:49+00:00",
+    "data": [{
+        "code": "3255",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.30306,
+            "lng": -72.93401
+        },
+        "stop_id": "4096830",
+        "routes": ["4000346", "4000354", "4000366", "4000370", "4000374", "4000378", "4000390", "4000394", "4003418", "4004382", "4007474", "4008908"],
+        "name": "333 Cedar"
+    }, {
+        "code": "3256",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.30853,
+            "lng": -72.93141
+        },
+        "stop_id": "4096834",
+        "routes": ["4000346", "4000366", "4000370", "4000378", "4000390", "4000394", "4003418", "4004382", "4005002"],
+        "name": "Chapel/York"
+    }, {
+        "code": "3257",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31058,
+            "lng": -72.92608
+        },
+        "stop_id": "4096838",
+        "routes": ["4000342", "4000346", "4000366", "4000370", "4000378", "4000390", "4000394", "4000398", "4003418", "4004382"],
+        "name": "College/Wall (Northbound)"
+    }, {
+        "code": "3259",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31591,
+            "lng": -72.92428
+        },
+        "stop_id": "4096842",
+        "routes": ["4000346", "4000366", "4000370", "4000378", "4000394", "4003418", "4004382"],
+        "name": "135 Prospect"
+    }, {
+        "code": "3260",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31772,
+            "lng": -72.92375
+        },
+        "stop_id": "4096846",
+        "routes": ["4000342", "4000346", "4000370", "4004382", "4007666"],
+        "name": "Chemistry/225 Prospect (N) /SCL"
+    }, {
+        "code": "3261",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.32347,
+            "lng": -72.9231
+        },
+        "stop_id": "4096850",
+        "routes": ["4000346", "4000370", "4004382"],
+        "name": "Divinity/409 Prospect (Northbound)"
+    }, {
+        "code": "3262",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.32546,
+            "lng": -72.92269
+        },
+        "stop_id": "4096854",
+        "routes": ["4000346", "4000370"],
+        "name": "Prospect/Canner"
+    }, {
+        "code": "3264",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.32818,
+            "lng": -72.91493
+        },
+        "stop_id": "4096862",
+        "routes": ["4000346"],
+        "name": "Whitney/Highland"
+    }, {
+        "code": "3266",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.32155,
+            "lng": -72.91807
+        },
+        "stop_id": "4096870",
+        "routes": ["4000346"],
+        "name": "Whitney/Cottage"
+    }, {
+        "code": "3268",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31554,
+            "lng": -72.92086
+        },
+        "stop_id": "4096878",
+        "routes": ["4000346", "4000394", "4004382"],
+        "name": "Peabody Museum/ Whitney/Sachem"
+    }, {
+        "code": "3269",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31238,
+            "lng": -72.92282
+        },
+        "stop_id": "4096882",
+        "routes": ["4000346", "4000394", "4004382"],
+        "name": "Helen Hadley Hall"
+    }, {
+        "code": "3270",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31083,
+            "lng": -72.92612
+        },
+        "stop_id": "4096886",
+        "routes": ["4000342", "4000346", "4000366", "4000370", "4000378", "4000390", "4000394", "4004382", "4007666"],
+        "name": "College/Wall (Southbound)"
+    }, {
+        "code": "3271",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.30836,
+            "lng": -72.92792
+        },
+        "stop_id": "4096890",
+        "routes": ["4000342", "4000346", "4000350", "4000366", "4000370", "4000378", "4000382", "4000390", "4000394", "4004382", "4005002", "4007666"],
+        "name": "Phelps Gate"
+    }, {
+        "code": "3274",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.30359,
+            "lng": -72.93166
+        },
+        "stop_id": "4096898",
+        "routes": ["4000342", "4000346", "4000366", "4000378", "4000390", "4000394", "4006518", "4007474", "4007666"],
+        "name": "LEPH/60 College"
+    }, {
+        "code": "3277",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31636,
+            "lng": -72.91632
+        },
+        "stop_id": "4096902",
+        "routes": ["4000366", "4000370", "4000378", "4000386", "4000390"],
+        "name": "Orange/Humphrey (Southbound)"
+    }, {
+        "code": "3280",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31254,
+            "lng": -72.92527
+        },
+        "stop_id": "4096906",
+        "routes": ["4000346", "4000370", "4000398"],
+        "name": "Becton/15 Prospect"
+    }, {
+        "code": "3281",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.32102,
+            "lng": -72.90946
+        },
+        "stop_id": "4096910",
+        "routes": ["4000366", "4000378"],
+        "name": "Willow/Foster"
+    }, {
+        "code": "3282",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31713,
+            "lng": -72.91238
+        },
+        "stop_id": "4096914",
+        "routes": ["4000366", "4000378"],
+        "name": "Foster/Edwards"
+    }, {
+        "code": "3285",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.297492,
+            "lng": -72.927109
+        },
+        "stop_id": "4096918",
+        "routes": ["4000342", "4000350", "4000382", "4006518", "4007666", "4008908"],
+        "name": "Union Station (Northbound)"
+    }, {
+        "code": "3286",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.29972,
+            "lng": -72.92953
+        },
+        "stop_id": "4096922",
+        "routes": ["4000342", "4000390", "4000394", "4006518", "4007666", "4008908"],
+        "name": "CSS"
+    }, {
+        "code": "3291",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.312095,
+            "lng": -72.932101
+        },
+        "stop_id": "4096926",
+        "routes": ["4000370", "4000394", "4003418"],
+        "name": "Broadway/Park"
+    }, {
+        "code": "3293",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31785,
+            "lng": -72.91998
+        },
+        "stop_id": "4096930",
+        "routes": ["4000346", "4000350", "4000378", "4000382", "4000386", "4000390", "4000394", "4000398", "4004382"],
+        "name": "Lot 22 (Whitney/Humphrey)"
+    }, {
+        "code": "3294",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.30206,
+            "lng": -72.93293
+        },
+        "stop_id": "4096934",
+        "routes": ["4000346"],
+        "name": "Boyer Center"
+    }, {
+        "code": "3296",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.3246,
+            "lng": -72.91677
+        },
+        "stop_id": "4096938",
+        "routes": ["4000346", "4000366", "4000378", "4000390"],
+        "name": "Canner/Whitney"
+    }, {
+        "code": "3298",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31206,
+            "lng": -72.92883
+        },
+        "stop_id": "4096942",
+        "routes": ["4000394", "4003418"],
+        "name": "HGS/320 York"
+    }, {
+        "code": "3299",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31348,
+            "lng": -72.93081
+        },
+        "stop_id": "4096946",
+        "routes": ["4000394", "4003418"],
+        "name": "PWG/Tower Pkwy"
+    }, {
+        "code": "3303",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.297929,
+            "lng": -72.926912
+        },
+        "stop_id": "4096954",
+        "routes": ["4000370", "4000394"],
+        "name": "Union Station (Southbound)"
+    }, {
+        "code": "3307",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.32227,
+            "lng": -72.91181
+        },
+        "stop_id": "4096958",
+        "routes": ["4000350", "4000366", "4000370", "4000378"],
+        "name": "Orange/Willow (Southbound)"
+    }, {
+        "code": "3308",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.32003,
+            "lng": -72.91346
+        },
+        "stop_id": "4096962",
+        "routes": ["4000370"],
+        "name": "Orange/Cottage (Southbound)"
+    }, {
+        "code": "3309",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31145,
+            "lng": -72.92543
+        },
+        "stop_id": "4096966",
+        "routes": ["4003418"],
+        "name": "College/Grove (Northbound)"
+    }, {
+        "code": "3315",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.321388,
+            "lng": -72.928746
+        },
+        "stop_id": "4096970",
+        "routes": ["4000342", "4000350"],
+        "name": "25 Science Park"
+    }, {
+        "code": "3316",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.32475,
+            "lng": -72.92332
+        },
+        "stop_id": "4096974",
+        "routes": ["4000342", "4007666"],
+        "name": "Division/Prospect"
+    }, {
+        "code": "3322",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.30024,
+            "lng": -72.93256
+        },
+        "stop_id": "4096978",
+        "routes": ["4000342", "4000370", "4006518", "4007666"],
+        "name": "Amistad/Cedar"
+    }, {
+        "code": "3324",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.305258,
+            "lng": -72.922266
+        },
+        "stop_id": "4096982",
+        "routes": ["4000342", "4000350"],
+        "name": "State St Station"
+    }, {
+        "code": "3325",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.32308,
+            "lng": -72.91103
+        },
+        "stop_id": "4096986",
+        "routes": ["4000366", "4000370", "4000378"],
+        "name": "Orange/Canner"
+    }, {
+        "code": "3326",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31816,
+            "lng": -72.91456
+        },
+        "stop_id": "4096990",
+        "routes": ["4000366", "4000370", "4000378", "4000386", "4000390"],
+        "name": "Edwards/Orange"
+    }, {
+        "code": "3327",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31472,
+            "lng": -72.91734
+        },
+        "stop_id": "4096994",
+        "routes": ["4000366", "4000370", "4000378", "4000386", "4000390"],
+        "name": "Orange/Pearl (Southbound)"
+    }, {
+        "code": "3329",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.319432,
+            "lng": -72.919048
+        },
+        "stop_id": "4096998",
+        "routes": ["4000346", "4000366", "4000378", "4000386", "4000390"],
+        "name": "Pierson Sage Garage"
+    }, {
+        "code": "3330",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31166,
+            "lng": -72.92213
+        },
+        "stop_id": "4097002",
+        "routes": ["4000342"],
+        "name": "Whitney/Audubon"
+    }, {
+        "code": "3336",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31547,
+            "lng": -72.92762
+        },
+        "stop_id": "4097014",
+        "routes": ["4000342"],
+        "name": "Yale Health Plan"
+    }, {
+        "code": "3337",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.30512,
+            "lng": -72.92003
+        },
+        "stop_id": "4097018",
+        "routes": ["4000342"],
+        "name": "Court/Olive"
+    }, {
+        "code": "3338",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.30401,
+            "lng": -72.92033
+        },
+        "stop_id": "4097022",
+        "routes": ["4000342"],
+        "name": "Olive/Chapel"
+    }, {
+        "code": "3339",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.324595,
+            "lng": -72.928444
+        },
+        "stop_id": "4097026",
+        "routes": ["4000342"],
+        "name": "344 Winchester"
+    }, {
+        "code": "3340",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.30607,
+            "lng": -72.92565
+        },
+        "stop_id": "4097030",
+        "routes": ["4000342"],
+        "name": "Chapel/Church"
+    }, {
+        "code": "3341",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.301448,
+            "lng": -72.93336
+        },
+        "stop_id": "4097034",
+        "routes": ["4000342", "4000382", "4006518"],
+        "name": "TAC"
+    }, {
+        "code": "3343",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.294,
+            "lng": -72.95484
+        },
+        "stop_id": "4097042",
+        "routes": ["4007474"],
+        "name": "Quigley Stadium (Southbound)"
+    }, {
+        "code": "3344",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.29406,
+            "lng": -72.95468
+        },
+        "stop_id": "4097046",
+        "routes": ["4000374", "4007474"],
+        "name": "Quigley Stadium (Northbound)"
+    }, {
+        "code": "3345",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.29612,
+            "lng": -72.95597
+        },
+        "stop_id": "4097050",
+        "routes": ["4007474"],
+        "name": "Front/Rt. 1 (Southbound)"
+    }, {
+        "code": "3346",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.29614,
+            "lng": -72.95569
+        },
+        "stop_id": "4097054",
+        "routes": ["4007474"],
+        "name": "Front/Rt. 1 (Northbound)"
+    }, {
+        "code": "3347",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.301959,
+            "lng": -72.933362
+        },
+        "stop_id": "4097058",
+        "routes": ["4000346", "4000366", "4000378", "4000390", "4000394", "4007474", "4007666"],
+        "name": "Congress/Cedar"
+    }, {
+        "code": "3348",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31466,
+            "lng": -72.93806
+        },
+        "stop_id": "4097062",
+        "routes": ["4000370"],
+        "name": "Stop & Shop"
+    }, {
+        "code": "3349",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.32387,
+            "lng": -72.91383
+        },
+        "stop_id": "4097066",
+        "routes": ["4000370"],
+        "name": "Canner/Livingston"
+    }, {
+        "code": "3350",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.30989,
+            "lng": -72.92103
+        },
+        "stop_id": "4097070",
+        "routes": ["4000370"],
+        "name": "Orange/Grove"
+    }, {
+        "code": "3351",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31082,
+            "lng": -72.93002
+        },
+        "stop_id": "4097074",
+        "routes": ["4000370"],
+        "name": "Broadway/York"
+    }, {
+        "code": "3352",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.30065,
+            "lng": -72.92976
+        },
+        "stop_id": "4097078",
+        "routes": ["4000370", "4000390"],
+        "name": "Amistad/CSS"
+    }, {
+        "code": "3302",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.3162,
+            "lng": -72.91596
+        },
+        "stop_id": "4128602",
+        "routes": ["4000386"],
+        "name": "Orange/Humphrey (Northbound)"
+    }, {
+        "code": "3353",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.313,
+            "lng": -72.91848
+        },
+        "stop_id": "4128606",
+        "routes": ["4000386"],
+        "name": "Orange/Bradley"
+    }, {
+        "code": "3354",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31452,
+            "lng": -72.91736
+        },
+        "stop_id": "4128610",
+        "routes": ["4000386"],
+        "name": "Orange/Pearl (Northbound)"
+    }, {
+        "code": "3356",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31917,
+            "lng": -72.91418
+        },
+        "stop_id": "4128614",
+        "routes": ["4000350"],
+        "name": "Lawrence/Orange"
+    }, {
+        "code": "3355",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.31702,
+            "lng": -72.91544
+        },
+        "stop_id": "4130738",
+        "routes": ["4000386"],
+        "name": "Orange/Bishop"
+    }, {
+        "code": "3400",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.320436,
+            "lng": -72.912809
+        },
+        "stop_id": "4130742",
+        "routes": ["4000386"],
+        "name": "Orange/Avon"
+    }, {
+        "code": "3380",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.307305,
+            "lng": -72.928478
+        },
+        "stop_id": "4132142",
+        "routes": ["4000342", "4006518"],
+        "name": "Chapel/College"
+    }, {
+        "code": "3381",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.306432,
+            "lng": -72.933012
+        },
+        "stop_id": "4132202",
+        "routes": ["4000346", "4000366", "4000378", "4000390", "4000394", "4003418"],
+        "name": "129 York"
+    }, {
+        "code": "4000",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.320186,
+            "lng": -72.923238
+        },
+        "stop_id": "4133374",
+        "routes": ["4000346", "4000366", "4004382"],
+        "name": "Prospect / Edwards (Yale Garden)"
+    }, {
+        "code": "4001",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.321607,
+            "lng": -72.923219
+        },
+        "stop_id": "4133378",
+        "routes": ["4004382"],
+        "name": "Leitner Driveway"
+    }, {
+        "code": "3382",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.312369,
+            "lng": -72.91916
+        },
+        "stop_id": "4136242",
+        "routes": ["4000370"],
+        "name": "Orange/Trumbull"
+    }, {
+        "code": "4002",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.315405,
+            "lng": -72.921089
+        },
+        "stop_id": "4141106",
+        "routes": ["4000378", "4000398"],
+        "name": "SOM (Afternoon)"
+    }, {
+        "code": "3999",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.32386,
+            "lng": -72.916696
+        },
+        "stop_id": "4141846",
+        "routes": ["4000386"],
+        "name": "Willow/Whitney"
+    }, {
+        "code": "5000",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.304685,
+            "lng": -72.930736
+        },
+        "stop_id": "4143974",
+        "routes": ["4000342", "4000346", "4000366", "4000378", "4000390", "4000394", "4006518", "4007666"],
+        "name": "300 George"
+    }, {
+        "code": "5001",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.310997,
+            "lng": -72.920197
+        },
+        "stop_id": "4143978",
+        "routes": ["4000366", "4000378", "4000390"],
+        "name": "Audubon/Orange"
+    }, {
+        "code": "5002",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.306043,
+            "lng": -72.929612
+        },
+        "stop_id": "4143982",
+        "routes": ["4000342", "4000346", "4000366", "4000378", "4000390", "4000394"],
+        "name": "College/Crown"
+    }, {
+        "code": "5004",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.310461,
+            "lng": -72.930025
+        },
+        "stop_id": "4143990",
+        "routes": ["4000346", "4000394", "4005002"],
+        "name": "Elm/York"
+    }, {
+        "code": "5005",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.318898,
+            "lng": -72.911024
+        },
+        "stop_id": "4143994",
+        "routes": ["4000366"],
+        "name": "Foster/Cottage"
+    }, {
+        "code": "5006",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.311229,
+            "lng": -72.924196
+        },
+        "stop_id": "4143998",
+        "routes": ["4000366", "4000378", "4000390"],
+        "name": "Grove/Temple"
+    }, {
+        "code": "5007",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.310437,
+            "lng": -72.922246
+        },
+        "stop_id": "4144002",
+        "routes": ["4000366", "4000378", "4000390"],
+        "name": "Grove/Whitney"
+    }, {
+        "code": "5010",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.328864,
+            "lng": -72.921818
+        },
+        "stop_id": "4144010",
+        "routes": ["4000346"],
+        "name": "Prospect/Highland"
+    }, {
+        "code": "5011",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.316194,
+            "lng": -72.924416
+        },
+        "stop_id": "4144014",
+        "routes": ["4000342"],
+        "name": "Prospect/Sachem"
+    }, {
+        "code": "5012",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.313574,
+            "lng": -72.923471
+        },
+        "stop_id": "4144018",
+        "routes": ["4000342"],
+        "name": "Trumbull/Hillhouse"
+    }, {
+        "code": "5013",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.309471,
+            "lng": -72.923332
+        },
+        "stop_id": "4144022",
+        "routes": ["4000342", "4005002"],
+        "name": "Wall/Church"
+    }, {
+        "code": "5014",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.310392,
+            "lng": -72.92254
+        },
+        "stop_id": "4144026",
+        "routes": ["4000342"],
+        "name": "Whitney/Grove"
+    }, {
+        "code": "5015",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.329397,
+            "lng": -72.9145
+        },
+        "stop_id": "4144030",
+        "routes": ["4000346"],
+        "name": "Whitney/Huntington"
+    }, {
+        "code": "5016",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.323145,
+            "lng": -72.917225
+        },
+        "stop_id": "4144034",
+        "routes": ["4000346"],
+        "name": "Whitney/Linden"
+    }, {
+        "code": "5017",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.323121,
+            "lng": -72.914028
+        },
+        "stop_id": "4144038",
+        "routes": ["4000386"],
+        "name": "Willow/Livingston"
+    }, {
+        "code": "5019",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.320043,
+            "lng": -72.928126
+        },
+        "stop_id": "4144046",
+        "routes": ["4000342"],
+        "name": "Winchester/Tilton"
+    }, {
+        "code": "5020",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.319277,
+            "lng": -72.927761
+        },
+        "stop_id": "4144050",
+        "routes": ["4000342"],
+        "name": "Winchester/Woodland"
+    }, {
+        "code": "5100",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.313995,
+            "lng": -72.924611
+        },
+        "stop_id": "4161262",
+        "routes": ["4000346"],
+        "name": "Prospect / Trumbull"
+    }, {
+        "code": "10000",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.321076,
+            "lng": -72.923422
+        },
+        "stop_id": "4163646",
+        "routes": ["4000342", "4007666"],
+        "name": "Prospect/Hillside"
+    }, {
+        "code": "10001",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.30342,
+            "lng": -72.92784
+        },
+        "stop_id": "4165798",
+        "routes": ["4000394"],
+        "name": "Church/George"
+    }, {
+        "code": "10002",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.303491,
+            "lng": -72.926617
+        },
+        "stop_id": "4165802",
+        "routes": ["4000394"],
+        "name": "81 George St."
+    }, {
+        "code": "10003",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.329925,
+            "lng": -72.917436
+        },
+        "stop_id": "4166510",
+        "routes": ["4000346"],
+        "name": "Huntington / Edgehill"
+    }, {
+        "code": "10004",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.319703,
+            "lng": -72.918944
+        },
+        "stop_id": "4166514",
+        "routes": ["4000366", "4000378", "4000390"],
+        "name": "Whitney / Edwards"
+    }, {
+        "code": "1003",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.326141,
+            "lng": -72.915889
+        },
+        "stop_id": "4177252",
+        "routes": ["4000346"],
+        "name": "Whitney/Cold Spring"
+    }, {
+        "code": "3304",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.321968,
+            "lng": -72.911735
+        },
+        "stop_id": "4185378",
+        "routes": ["4000386"],
+        "name": "Orange/Willow (Northbound)"
+    }, {
+        "code": "3383",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.304807,
+            "lng": -72.923052
+        },
+        "stop_id": "4186774",
+        "routes": ["4000370"],
+        "name": "Chapel and State Elm City Market"
+    }, {
+        "code": "3384",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.325427,
+            "lng": -72.9277
+        },
+        "stop_id": "4196480",
+        "routes": ["4000342"],
+        "name": "Winchester/Division"
+    }, {
+        "code": "5022",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.319049,
+            "lng": -72.913863
+        },
+        "stop_id": "4196924",
+        "routes": ["4000386"],
+        "name": "Orange/Lawrence"
+    }, {
+        "code": "5021",
+        "description": "",
+        "url": "",
+        "parent_station_id": null,
+        "agency_ids": ["128"],
+        "station_id": null,
+        "location_type": "stop",
+        "location": {
+            "lat": 41.313201,
+            "lng": -72.921658
+        },
+        "stop_id": "4197156",
+        "routes": ["4000390"],
+        "name": "Whitney/Trumbull"
+    }],
+    "api_version": "1.2"
+}

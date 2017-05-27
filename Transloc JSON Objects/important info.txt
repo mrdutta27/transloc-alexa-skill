@@ -1,0 +1,10 @@
+Stop IDs:
+
+  Edwards/Orange: 4096990
+  Lawrence/Orange: 4128614
+  Foster/Edwards: 4096914
+
+Route IDs:
+
+  Weekend Blue: 4000370
+  
