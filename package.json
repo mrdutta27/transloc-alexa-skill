@@ -1,0 +1,23 @@
+{
+  "name": "transloc-alexa-skill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrdutta27/transloc-alexa-skill.git"
+  },
+  "keywords": [
+    "Transloc",
+    "Alexa"
+  ],
+  "author": "Surya Dutta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrdutta27/transloc-alexa-skill/issues"
+  },
+  "homepage": "https://github.com/mrdutta27/transloc-alexa-skill#readme"
+}
