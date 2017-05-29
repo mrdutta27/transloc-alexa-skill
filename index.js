@@ -3,6 +3,7 @@
 var Alexa = require('alexa-sdk');
 var APP_ID = 'amzn1.ask.skill.8bd1926a-3cb3-43cb-8f90-1dda0a8d4fe5';
 var unirest = require('unirest');
+var routeDict = {'4000370':'Weekend Blue'}
 
 var handlers = {
     'ArrivalTimeIntent': function() {
@@ -14,9 +15,10 @@ var handlers = {
                 var arrayLength = result.body.data.length;
                 if (arrayLength > 0) {
                     var arrivalTime = result.body.data[0].arrivals[0].arrival_at;
+                    var routeName = routeDict[result.body.data[0].arrivals[0].route_id] || "";
                     var timeToArrival = Math.floor(Math.abs(new Date() - Date.parse(arrivalTime)) / 60000.0).toString();
                     //console.log(result.status, result.headers, result.body);
-                    thisFunction.emit(':tell', 'The next shuttle is arriving in ' + timeToArrival + ' minutes');
+                    thisFunction.emit(':tell', 'The ' + routeName + ' shuttle is arriving in ' + timeToArrival + ' minutes');
                 } else {
                     thisFunction.emit(':tell', 'Sorry. There do not seem to be any shuttles arriving soon');
                 }
